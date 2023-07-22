@@ -17,3 +17,6 @@
 #### Deve ser usado apenas para fins educacionais e de pesquisa, nunca para trapaças ou atividades ilegais.
 #### Não use o programa de maneira inadequada, pois isso pode resultar em problemas legais ou banimento do jogo.
 #### Lembre-se: respeite sempre as regras dos jogos e seja um programador ético e responsável.
+
+####### imagem do Programa : ![image](https://github.com/srnaja/TibiaMemoryReader/assets/139243138/3a7d08b7-7296-4060-811e-175bc2877d62)
+
